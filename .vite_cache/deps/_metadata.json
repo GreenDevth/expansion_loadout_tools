@@ -1,0 +1,37 @@
+{
+  "hash": "82382667",
+  "configHash": "e576c021",
+  "lockfileHash": "a68afcbc",
+  "browserHash": "dfef31db",
+  "optimized": {
+    "react": {
+      "src": "D:/DayZStory_AiFriendly/Tools/LoadoutApp/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "5b8e9292",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "D:/DayZStory_AiFriendly/Tools/LoadoutApp/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "a6348505",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "D:/DayZStory_AiFriendly/Tools/LoadoutApp/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "a60b597d",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "D:/DayZStory_AiFriendly/Tools/LoadoutApp/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "60c98ed7",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-YWPRPZXR": {
+      "file": "chunk-YWPRPZXR.js"
+    }
+  }
+}

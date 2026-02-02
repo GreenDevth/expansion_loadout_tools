@@ -1,32 +1,47 @@
-# Prerequisites
-*.d
+# Logic / Application
+node_modules/
+.npm
+/dist
+/dist-electron
+/out
+/release
+/.vite
+/build
+*.log*
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Environment / Secret
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
 
-# Precompiled Headers
-*.gch
-*.pch
+# IDE / Editor
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# OS / System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Build / Output
 *.exe
-*.out
-*.app
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.zip
+*.tar.gz
